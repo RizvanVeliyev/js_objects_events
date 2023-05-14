@@ -13,7 +13,7 @@ function addLi()
 let display=document.getElementById('display');
 let list=document.getElementById('list');
 function displayList(){
-    list.classList.toggle('remove');
+    list.classList.add('remove');
         
 }
 
